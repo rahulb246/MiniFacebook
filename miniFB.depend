@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1425220451 source:c:\users\sandeep\desktop\minifb\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1424934028 source:c:\users\sandeep\desktop\minifb\trie.c
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<assert.h>
+	<limits.h>
+	<string.h>
+	"trie.h"
+
+1424933990 c:\users\sandeep\desktop\minifb\trie.h
+	<stdbool.h>
+
+1425221105 source:c:\users\sandeep\desktop\minifb\socialnetwork.c
+	"socialnetwork.h"
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1425221002 c:\users\sandeep\desktop\minifb\socialnetwork.h
+
+1425221106 source:c:\users\sandy\desktop\socialnetwork-vnr vjiet - march 2\minifb\minifb\socialnetwork.c
+	"socialnetwork.h"
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1425221004 c:\users\sandy\desktop\socialnetwork-vnr vjiet - march 2\minifb\minifb\socialnetwork.h
+
+1424934028 source:c:\users\sandy\desktop\socialnetwork-vnr vjiet - march 2\minifb\minifb\trie.c
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<assert.h>
+	<limits.h>
+	<string.h>
+	"trie.h"
+
+1424933990 c:\users\sandy\desktop\socialnetwork-vnr vjiet - march 2\minifb\minifb\trie.h
+	<stdbool.h>
+
+1435882044 source:c:\users\sandy\desktop\socialnetwork-vnr vjiet - march 2\minifb\minifb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"socialnetwork.h"
+	"trie.h"
+	<string.h>
+	<assert.h>
+
+1425221106 source:c:\users\sandy\desktop\socialnetwork-vnr vjiet - march 2\minifb\class-24-minifb\socialnetwork.c
+	"socialnetwork.h"
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1425221004 c:\users\sandy\desktop\socialnetwork-vnr vjiet - march 2\minifb\class-24-minifb\socialnetwork.h
+
+1424934028 source:c:\users\sandy\desktop\socialnetwork-vnr vjiet - march 2\minifb\class-24-minifb\trie.c
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<assert.h>
+	<limits.h>
+	<string.h>
+	"trie.h"
+
+1424933990 c:\users\sandy\desktop\socialnetwork-vnr vjiet - march 2\minifb\class-24-minifb\trie.h
+	<stdbool.h>
+
+1425221106 source:c:\users\lenovo\desktop\class-24-minifb\socialnetwork.c
+	"socialnetwork.h"
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1425221004 c:\users\lenovo\desktop\class-24-minifb\socialnetwork.h
+
+1424934028 source:c:\users\lenovo\desktop\class-24-minifb\trie.c
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<assert.h>
+	<limits.h>
+	<string.h>
+	"trie.h"
+
+1424933990 c:\users\lenovo\desktop\class-24-minifb\trie.h
+	<stdbool.h>
+
+1435919078 source:c:\users\lenovo\desktop\class-24-minifb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"socialnetwork.h"
+	"trie.h"
+	<string.h>
+	<assert.h>
+
+1436124392 source:c:\users\lenovo\desktop\projects\minifb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"socialnetwork.h"
+	"trie.h"
+	<string.h>
+	<assert.h>
+	<limits.h>
+
+1425221004 c:\users\lenovo\desktop\projects\minifb\socialnetwork.h
+
+1424933990 c:\users\lenovo\desktop\projects\minifb\trie.h
+	<stdbool.h>
+
+1425221106 source:c:\users\lenovo\desktop\projects\minifb\socialnetwork.c
+	"socialnetwork.h"
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1424934028 source:c:\users\lenovo\desktop\projects\minifb\trie.c
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<assert.h>
+	<limits.h>
+	<string.h>
+	"trie.h"
+
