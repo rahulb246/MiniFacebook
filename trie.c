@@ -1,10 +1,3 @@
-/*
-
-    TRIE IMPLEMENTATION
-    COPYRIGHT - BEING ZERO PVT LTD
-	info@beingzero.in
-*/
-
 #include <stdbool.h>
 #include <stdlib.h>
 #include <stdio.h>
