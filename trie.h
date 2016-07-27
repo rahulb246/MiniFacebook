@@ -1,10 +1,3 @@
-/*
-
-    TRIE IMPLEMENTATION
-    COPYRIGHT - BEING ZERO PVT LTD
-	info@beingzero.in
-*/
-
 #ifndef TRIE_H_INCLUDED
 #define TRIE_H_INCLUDED
 
